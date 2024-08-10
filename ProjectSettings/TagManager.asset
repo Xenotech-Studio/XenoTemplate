@@ -3,32 +3,34 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bullet
+  - MR
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - PlayerHead
   - Water
   - UI
   - 
   - 
   - 
   - 
+  - MRControl
+  - MRCulling
+  - MRCulledScene
   - 
   - 
+  - Z-Clear
+  - 
+  - MRShadowing
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Stencil-2
+  - Stencil-2-mask
+  - WallDecal
+  - MRPhysics
   - 
   - 
   - 
